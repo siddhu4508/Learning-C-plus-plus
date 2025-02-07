@@ -1,7 +1,7 @@
 // Write hello world in Cpp
 
 
-// addeding input output module named stream "iostream"
+// adding input output module named stream "iostream"
 #include <iostream>
 
 // defining main function to start the program
