@@ -3,6 +3,11 @@
 
 // adding input output module named stream "iostream"
 #include <iostream>
+using namespace std;
+
+
+// namespace std;
+
 
 // defining main function to start the program
 int main() {
