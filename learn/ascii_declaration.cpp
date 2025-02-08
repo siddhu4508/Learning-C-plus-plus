@@ -2,7 +2,6 @@
 ASCII Range of 'A' to 'Z' = 65 - 90
 ASCII Range of '0' to '9' = 48 - 57
 ASCII Range of 'a' to 'z' = 97 - 122
-assic range of symbols characters are represented by
 */
 
 #include <iostream>
